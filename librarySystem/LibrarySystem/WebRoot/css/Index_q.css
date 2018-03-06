@@ -1,0 +1,263 @@
+body{
+	background-color:#F7F8FA;
+	margin:0;
+}
+
+.bar{
+	position:fixed;
+	height:50px;
+	width:1362px;
+	background-color:white;
+	line-height:50px;
+	border-bottom:1px solid #E1E4E7;
+}
+
+.bar_1{
+	float:left;
+	margin-left:170px;
+	color:#0F88EB;
+	font-size:25px;
+}
+
+.bar_2{
+	float:left;
+	margin-left:25px;
+	font-size:15px;
+}
+.bar_2 a{
+	text-decoration: none;
+	color:#000;
+}
+.bar_3_all{
+	float:left;
+	margin-left:32px;
+	margin-top:9px;
+}
+
+.bar_3{
+	float:left;
+	width:340px;
+	height:34px;
+	background-color:#F7F8FA;
+	border-radius:5px;
+	border:1px solid #E1E4E7;
+	padding-left:10px;
+}
+
+.bar_4{
+	float:left;
+	width:57px;
+	height:34px;
+	background-color:#0F88EB;
+	border:none;
+	border-radius:3px;
+	margin-left:20px;
+	color:white;
+	font-size:15px;
+}
+.bar_5{
+	float:left;
+	margin-left:180px;
+	margin-top:-12px;
+}
+.bar_5_ul_2{
+	margin-left:-65px;
+	display:none;
+}
+.bar_5_img{
+	width:30px;
+	height:30px;
+	text-align:center;
+}
+.bar_5_li_1{
+	display:block;
+	width:30px;
+	height:30px;
+}
+.bar_5_li_2{
+	display:block;
+	width:80px;
+	height:40px;
+	background-color:#fff;
+	margin-top:0px;
+	text-align:center;
+}
+.bar_5_li_2 a{
+	text-decoration: none;
+	color:#aeaeae;
+}
+.bar_5_li_2:hover{
+	display:block;
+	width:80px;
+	height:40px;
+	background-color:#aeaeae;
+	color:#fff;
+}
+.bar_5_li_2 a:hover{
+	color:#fff;
+}
+.top_top{
+	background-color:#F7F8FA;
+	height:70px;
+}
+.tuijian-top{
+	float:left;
+	background-color:white;
+	width:1000px;
+	height:50px;
+	border:1px solid #E1E4E7;
+	margin-left:175px;
+}
+.tuijian-bar-left{
+	margin-left:20px;
+	float:left;
+	line-height:50px;
+	font-weight:bold;
+	font-size:16px;
+}
+.tuijian-bar-right{
+	float:right;
+	margin-right:20px;
+	line-height:50px;
+	font-size:13px;
+	color:#aeaeae;
+}
+.tuijian-body{
+	float:left;
+	background-color:white;
+	width:1000px;
+	height:auto;
+	border-left:1px solid #E1E4E7;
+	border-right:1px solid #E1E4E7;
+	border-bottom:1px solid #E1E4E7;
+	margin-left:175px;
+	margin-bottom:20px;
+}
+.tuijian-body form{
+	float:left;
+}
+.tuijian-cell{
+	float:left;
+	width:150px;
+	height:350px;
+	margin-top:30px;
+	margin-left:25px;
+	margin-right:25px;
+}
+.tuijian-cell img{
+	width:100%;
+	height:200px;
+}
+.tuijian-cell-input{
+	width:150px;
+	height:200px;
+}
+.tuijian-cell-input img{
+	width:150px;
+	height:200px;
+}
+.introduce{
+	width:100%;
+	height:auto;
+	margin-top:20px;
+}
+.author{
+	margin-top:10px;
+	font-size:13px;
+	color:#aeaeae;
+}
+.value{
+	margin-top:8px;
+	font-size:13px;
+	color:#ff4848;
+}
+.search-top{
+	float:left;
+	background-color:white;
+	width:1000px;
+	height:50px;
+	border:1px solid #E1E4E7;
+	margin-left:175px;
+}
+.search-bar-left{
+	margin-left:20px;
+	float:left;
+	line-height:50px;
+	font-size:16px;
+	background:transparent;
+	border-style:none;
+}
+.search-bar-bottom{
+	float:left;
+	background-color:white;
+	width:1000px;
+	height:85px;
+	margin-left:175px;
+	border-left: 1px solid #E1E4E7;
+	border-right: 1px solid #E1E4E7;
+}
+.search-bar-bottom ul{
+	height:100%;
+	margin-left:-40px;
+}
+.search-bar-bottom li{
+	display:block;
+	line-height:50px;
+	float:left;
+	margin-left:20px;
+}
+.search-bar-bottom select{
+	margin-left:20px;
+	margin-top:20px;
+	border: solid 1px #aeaeae;
+	height:40px;
+	-moz-appearance:none;
+	padding-right:14px;
+}
+.search-bar-bottom li a{
+	text-decoration: none;
+	color:#000;
+}
+.search-bar-bottom li a:hover{
+	border-bottom:2px solid #0F88EB;
+}
+.top{
+	float:left;
+	width:692px;
+	height:60px;
+	background-color:white;
+	border:1px solid #E1E4E7;
+	margin-left:155px;
+}
+.left_all{
+	float:left;
+}
+
+.left{
+	width:692px;
+	height:600px;
+	background-color:white;
+	border:1px solid #E1E4E7;
+	margin-left:155px;
+	margin-top:72px;
+}
+
+.right{
+	position:fixed;
+	float:left;
+	width:300px;
+	height:545px;
+	background-color:white;
+	border:1px solid #E1E4E7;
+	margin-left:860px;
+}
+.detailbutton{
+	background-color:#fff;
+	border:0px;
+	margin-left:-6px;
+	margin-top:10px;
+	font-size:16px;
+}
+.detailbutton:hover{
+	border:1px solid #E1E4E7;
+}
